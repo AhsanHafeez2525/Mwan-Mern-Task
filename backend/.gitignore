@@ -1,0 +1,78 @@
+# Node modules directory
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependency directories
+jspm_packages/
+
+# Bower dependency directory (optional)
+bower_components/
+
+# Environment variables file
+.env
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variable files
+.env.test
+.env.production
+
+# MacOS system files
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Debug files
+*.pid
+
+# Coverage directory used by coverage testing tools like istanbul
+coverage/
+
+# Cache
+.npm
+.nvm
+.cache/
+
+# Output directories
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Optional npm cache directory
+.npm
+
+# Miscellaneous
+*.swp
+*~
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional eslint cache
+.eslintcache
+
+# .yarn/releases or .yarn/plugins
+.yarn/releases/
+.yarn/plugins/
+
+# Package lock files
+package-lock.json
+yarn.lock
